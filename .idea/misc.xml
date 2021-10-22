@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/#MAHMUD/ProductManagement/app/src/main/res/layout/activity_add_inventory.xml" value="0.25" />
+        <entry key="..\:/#MAHMUD/ProductManagement/app/src/main/res/layout/activity_display_sells_record.xml" value="0.225" />
+        <entry key="..\:/#MAHMUD/ProductManagement/app/src/main/res/layout/activity_edit_selles_record.xml" value="0.225" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/drawable-v24/bg_ui.xml" value="0.13645833333333332" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/drawable-v24/bt_uifb.xml" value="0.1484375" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/drawable-v24/circlbackgroundgreen.xml" value="0.1484375" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/drawable-v24/circle.xml" value="0.1484375" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/drawable-v24/gradient.xml" value="0.1546875" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/drawable-v24/ic_add.xml" value="0.1484375" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/drawable-v24/ic_delete_black_24dp.xml" value="0.14739583333333334" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/drawable/bg_view.xml" value="0.240625" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/drawable/btn_top.xml" value="0.17552083333333332" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.1546875" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/drawable/ic_baseline_exit_to_app_24w.xml" value="0.1546875" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17552083333333332" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/drawable/ic_login_bg.xml" value="0.17552083333333332" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/activity_add_inventory.xml" value="0.2" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/activity_addsell.xml" value="0.22" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/activity_delete_inventory.xml" value="0.16" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/activity_display_sells_record.xml" value="0.13854166666666667" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/activity_edit_selles_record.xml" value="0.13" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/activity_inventorydashboard.xml" value="0.16" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/activity_registration.xml" value="0.2962962962962963" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/activity_sale_report_monthly.xml" value="0.33" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/activity_search_inventory.xml" value="0.33" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/activity_selldashboard.xml" value="0.22" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/activity_update_delete.xml" value="0.22" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/activity_view_edit.xml" value="0.13229166666666667" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/view_inventory.xml" value="0.15" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/view_sales_monthly.xml" value="0.1203125" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/view_selles.xml" value="0.25" />
+        <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/menu/menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
