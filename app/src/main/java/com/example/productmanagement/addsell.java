@@ -37,6 +37,8 @@ import java.util.UUID;
 
 import cn.pedant.SweetAlert.SweetAlertDialog;
 
+
+
 public class addsell extends AppCompatActivity {
 
     TextView SellingProName, SellingProCategory, SellingProPrice, TotalPrice, availableQuantity;

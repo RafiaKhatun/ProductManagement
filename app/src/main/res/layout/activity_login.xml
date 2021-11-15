@@ -115,6 +115,7 @@
                         android:id="@+id/Lemail"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
+                        android:textColor="@color/white"
                         android:layout_marginLeft="10dp"
                         android:layout_marginRight="10dp"
                         android:inputType="text" />
@@ -133,6 +134,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
+                        android:textColor="@color/white"
                         android:layout_marginRight="10dp"
                         android:inputType="textPassword" />
                 </LinearLayout>

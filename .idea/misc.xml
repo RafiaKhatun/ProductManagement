@@ -6,6 +6,11 @@
         <entry key="..\:/#MAHMUD/ProductManagement/app/src/main/res/layout/activity_add_inventory.xml" value="0.25" />
         <entry key="..\:/#MAHMUD/ProductManagement/app/src/main/res/layout/activity_display_sells_record.xml" value="0.225" />
         <entry key="..\:/#MAHMUD/ProductManagement/app/src/main/res/layout/activity_edit_selles_record.xml" value="0.225" />
+        <entry key="..\:/#MAHMUD/ProductManagement/app/src/main/res/layout/activity_login.xml" value="0.225" />
+        <entry key="..\:/#MAHMUD/ProductManagement/app/src/main/res/layout/activity_registration.xml" value="0.225" />
+        <entry key="..\:/#MAHMUD/ProductManagement/app/src/main/res/layout/activity_view_edit.xml" value="0.225" />
+        <entry key="..\:/MH/ProductManagement/app/src/main/res/layout/activity_login.xml" value="0.225" />
+        <entry key="..\:/MH/ProductManagement/app/src/main/res/layout/activity_registration.xml" value="0.225" />
         <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/drawable-v24/bg_ui.xml" value="0.13645833333333332" />
         <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/drawable-v24/bt_uifb.xml" value="0.1484375" />
         <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/drawable-v24/circlbackgroundgreen.xml" value="0.1484375" />
@@ -37,6 +42,14 @@
         <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/view_sales_monthly.xml" value="0.1203125" />
         <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/layout/view_selles.xml" value="0.25" />
         <entry key="..\:/Segi University/Android Projects/RAFIA KHATUN PROJETS/ProductManagement/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/Exotic/Downloads/ProductManagement/app/src/main/res/layout/activity_addsell.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/Exotic/Downloads/ProductManagement/app/src/main/res/layout/activity_login.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/Exotic/Downloads/ProductManagement/app/src/main/res/layout/activity_registration.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/Exotic/Downloads/ProductManagement/app/src/main/res/layout/activity_sale_report_monthly.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/Exotic/Downloads/ProductManagement/app/src/main/res/layout/activity_update_delete.xml" value="0.25" />
+        <entry key="..\:/Users/Exotic/Downloads/ProductManagement/app/src/main/res/layout/view_inventory.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/Exotic/Downloads/ProductManagement/app/src/main/res/layout/view_sales_monthly.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/Exotic/Downloads/ProductManagement/app/src/main/res/layout/view_selles.xml" value="0.17889492753623187" />
       </map>
     </option>
   </component>

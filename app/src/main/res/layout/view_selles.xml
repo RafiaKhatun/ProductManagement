@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/gradient"
@@ -13,6 +12,7 @@
         android:layout_height="wrap_content"
         android:text="Sell ID"
         android:textAlignment="center"
+        android:textColor="@color/white"
         android:textSize="30sp" />
 
     <TextView
@@ -21,6 +21,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/SellID"
         android:text="Product Name"
+        android:textColor="@color/white"
         android:textSize="20sp" />
 
     <TextView
@@ -29,33 +30,42 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/SellProductName"
         android:text="Product Category"
+        android:textColor="@color/white"
         android:textSize="20sp" />
+
     <TextView
         android:id="@+id/SellProductPrice"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/SellProductCategory"
         android:text="Product Price"
-        android:textSize="20sp"/>
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
     <TextView
         android:id="@+id/SellProductQuantity"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/SellProductPrice"
         android:text="Product Quantity"
-        android:textSize="20sp"/>
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
     <TextView
         android:id="@+id/SellerEmail"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/SellProductQuantity"
         android:text="Sell by email"
-        android:textSize="20sp"/>
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
     <TextView
         android:id="@+id/SellproductCODE"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/SellerEmail"
         android:text="Product Code"
-        android:textSize="20sp"/>
+        android:textColor="@color/white"
+        android:textSize="20sp" />
 </RelativeLayout>
